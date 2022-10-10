@@ -39,7 +39,7 @@ function App() {
         <Route path="./tasks" element={tasks}/>
 
       </Routes>
-      <h1>KARIBU KWA TO-DO LIST ZANGU</h1>
+      <h1>KARIBU KWA TADA LIST ZANGU</h1>
      {/* <TodoForm />*/}
       <h2>Here are all Todos From Db</h2>
       {tasks}
