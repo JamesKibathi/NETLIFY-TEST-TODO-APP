@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "Debugg my code",
+      "category": "School",
+      "due_date": "27/9/2022"
+    },
+    {
+      "id": 2,
+      "task": "Go Shopping",
+      "category": "Errands",
+      "due_date": "29/9/2022"
+    },
+    {
+      "id": 3,
+      "task": "Take dog for a walk",
+      "category": "Leisure",
+      "due_date": "28/9/2022"
+    },
+    {
+      "task": "Shopping",
+      "category": "Errands",
+      "due_date": "28/9/2022",
+      "id": 4
+    }
+  ]
+}
