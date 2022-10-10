@@ -40,7 +40,7 @@ function App() {
 
       </Routes>
       <h1>KARIBU KWA TADA LIST ZANGU</h1>
-     {/* <TodoForm />*/}
+      <TodoForm />
       <h2>Here are all Todos From Db</h2>
       {tasks}
     </>
